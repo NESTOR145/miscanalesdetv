@@ -537,60 +537,7 @@ https://d3mstgwjcwqz1y.cloudfront.net/ts:abr.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id="elcaminotv" tvg-logo="https://i.postimg.cc/rySpW5b2/EL-CAMINO-TV.jpg" group-title="VARIEDADES",EL CAMINO TV
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
-#EXTINF:-1 tvg-id="marcatv" tvg-logo="https://i.postimg.cc/DZM5RRHm/MARCA-TV.png" group-title="VARIEDADES",MARCA TV
-https://eu1.servers10.com:8081/8030/index.m3u8
-#EXTINF:-1 tvg-id="unitel" tvg-logo="https://i.postimg.cc/DwPWcRGP/UNITEL-TV.jpg" group-title="VARIEDADES",UNITEL
-https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
-#EXTINF:-1 tvg-id="regiontvlive" tvg-logo="https://i.postimg.cc/XYTSYXmq/REGION-TV.jpg" group-title="VARIEDADES",REGION TV
-https://servilive.com:3757/live/regiontvlive.m3u8
-#EXTINF:-1 tvg-id="colosaltv" tvg-logo="https://i.postimg.cc/kg20z1kw/COLOSAL-TV.jpg" group-title="VARIEDADES",COLOSAL TV
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:-1 tvg-id="caribetv" tvg-logo="https://i.postimg.cc/WbFhzZL1/CARIBE-TV.jpg" group-title="VARIEDADES",CARIBE TV
-https://giatv.bozztv.com/giatv/giatv-Supercanal/Supercanal/playlist.m3u8
-#EXTINF:-1 tvg-id="lunavision" tvg-logo="https://i.postimg.cc/bwhwSmhS/LUNA_VISION.jpg" group-title="VARIEDADES",LUNA VISION
-https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
-#EXTINF:-1 tvg-id="girovisualtv" tvg-logo="https://i.postimg.cc/nz96sxKL/GIROVISUAL-TV.jpg" group-title="VARIEDADES",GIROVISUAL
-https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="alcancetv" tvg-logo="https://i.postimg.cc/V65zD2qy/ALCANCE-TV.png" group-title="VARIEDADES",ALCANCE TV
-https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
-#EXTINF:-1 tvg-id="conectatv" tvg-logo="https://i.postimg.cc/T3wGRZsK/CONECTA-TV.png" group-title="VARIEDADES",CONECTA TV
-https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
-#EXTINF:-1 tvg-id="quesadatv" tvg-logo="https://i.postimg.cc/JzLzHpLs/QUESADA_TV.jpg" group-title="VARIEDADES",QUESADA TV
-https://cdn.streamhispanatv.net:3059/live/canal26quezadalive.m3u8
-#EXTINF:-1 tvg-id="galaxiatv" tvg-logo="https://i.postimg.cc/mZcwLhCj/GALAXIA-TV.jpg" group-title="VARIEDADES",GALAXIA TV
-https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
-#EXTINF:-1 tvg-id="unitv" tvg-logo="https://i.postimg.cc/MpYD8XHd/UNI-tv.jpg" group-title="VARIEDADES",UNI tv
-https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
-#EXTINF:-1 tvg-id="3abnlatino" tvg-logo="https://i.postimg.cc/KjZXWZ2g/3-ABN-LATINO.png" group-title="VARIEDADES",3ABN LATINO
-https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="americatv" tvg-logo="https://i.postimg.cc/rsQ6XvVZ/AMERICA-TV.png" group-title="VARIEDADES",AMERICA TV
-https://live.gideo.video/americateve2/master.m3u8
-#EXTINF:-1 tvg-id="realities" tvg-logo="https://i.postimg.cc/cJSrwH16/13-REALITIES.jpg" group-title="VARIEDADES",13 REALITIES
-https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF:-1 tvg-id="70y80tv" tvg-logo="https://i.postimg.cc/DfqS7FG7/70-Y-80-TV.jpg" group-title="VARIEDADES",70 Y 80 TV
-https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
-#EXTINF:-1 tvg-id="pularitv" tvg-logo="https://i.postimg.cc/VNrjRTV5/PULARI-TV.jpg" group-title="VARIEDADES",PULARI TV
-https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
-#EXTINF:-1 tvg-id="estutele" tvg-logo="https://i.postimg.cc/zD0FqnKz/ES-TU-TELE.jpg" group-title="VARIEDADES",ES TU TELE
-https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
-#EXTINF:-1 tvg-id="voiceover" tvg-logo="https://i.postimg.cc/MZRpF6Nw/VOICE-OVER.jpg" group-title="VARIEDADES",VOICE OVER
-https://tvservices.fullhd-streaming.com:3941/multi_web/play_720.m3u8
-#EXTINF:-1 tvg-id="zacatecas" tvg-logo="https://i.postimg.cc/sgydKSZF/CANAL-24-ZACATECAS.png" group-title="VARIEDADES",CANAL 24 ZACATECAS
-https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
-#EXTINF:-1 tvg-id="jujuy" tvg-logo="https://i.postimg.cc/vZ8pzrdB/CANAL-7-JUJUY.jpg" group-title="VARIEDADES",CANAL 7 JUJUY
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-#EXTINF:-1 tvg-id="canal7" tvg-logo="https://i.postimg.cc/TPFFfB5L/CANAL-7-SALTA.jpg" group-title="VARIEDADES",CANAL 7 SALTA
-https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
-#EXTINF:-1 tvg-id="televida" tvg-logo="https://i.postimg.cc/fRFB9mz1/TELEVIDA.jpg" group-title="VARIEDADES",TELEVIDA
-https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
-#EXTINF:-1 tvg-id="forovision" tvg-logo="https://i.postimg.cc/Th8kztfX/FOROVISION.png" group-title="VARIEDADES",FOROVISION
-https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="oasistv" tvg-logo="https://i.postimg.cc/G3sn5NxV/OASIS-TV.png" group-title="VARIEDADES",OASIS TV
-https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
-#EXTINF:-1 tvg-id="millenium" tvg-logo="https://i.postimg.cc/CKQBXkxv/MILLENIUM.png" group-title="VARIEDADES",MILLENIUM
-https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
-#EXTINF:-1 tvg-id="caracolatv" tvg-logo="https://i.postimg.cc/1zv4sDND/CARACOLA-TV.jpg" group-title="VARIEDADES",CARACOLA TV
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+
 
 
 
