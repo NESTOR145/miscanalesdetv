@@ -591,22 +591,7 @@ https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 #EXTINF:-1 tvg-id="caracolatv" tvg-logo="https://i.postimg.cc/1zv4sDND/CARACOLA-TV.jpg" group-title="VARIEDADES",CARACOLA TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="videomexiquense" tvg-logo="https://i.postimg.cc/pVZpCxdC/MEXIQUENSE-TV.jpg" group-title="VARIEDADES",MEXIQUENSE TV
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
-#EXTINF:-1 tvg-id="rcgtv" tvg-logo="https://i.postimg.cc/J7cw6pyz/RCG-TV.jpg" group-title="VARIEDADES",RCG TV
-https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w1513808412.m3u8
-#EXTINF:-1 tvg-id="martitv" tvg-logo="https://i.postimg.cc/6pqDQwM8/MARTI-TV.png" group-title="VARIEDADES",MARTI TV
-https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_1080.m3u8
-#EXTINF:-1 tvg-id="promartv" tvg-logo="https://i.postimg.cc/K8WCkVWJ/PROMAR-TV.jpg" group-title="VARIEDADES",PROMAR TV
-https://vcp.myplaytv.com/promar/promar/chunklist_w1618523790.m3u8
-#EXTINF:-1 tvg-id="tvgalicia" tvg-logo="https://i.postimg.cc/cC5Bkqwz/TVG-GALICIA.jpg" group-title="VARIEDADES",TVG GALICIA
-https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="cocina" tvg-logo="https://i.postimg.cc/pXw6P856/ANDALUCIA-COCINA.jpg" group-title="VARIEDADES",ANDALUCIA COCINA
-https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
-#EXTINF:-1 tvg-id="oromartv" tvg-logo="https://i.postimg.cc/528ky0wN/OROMAR-TV.jpg" group-title="VARIEDADES",OROMAR TV
-https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
-#EXTINF:-1 tvg-id="ewtn" tvg-logo="https://i.postimg.cc/fbK27r2G/EWTN.png" group-title="VARIEDADES",EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
 
 
 
