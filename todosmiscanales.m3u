@@ -109,7 +109,7 @@ https://mlb.essastream.com:8081/bebetotelevision/index.m3u8
 https://edge.essastream.com/canalcocotv/playlist.m3u8
 #EXTINF:-1 tvg-id="el-seis" tvg-logo="https://i.postimg.cc/wBQtWMM3/EL-SEIS.jpg" group-title="DOMINICANOS",EL SEIS RD
 https://stream.elseis.do/canal6/live_1080.m3u8
-#EXTINF:-1 tvg-id="cinesony" tvg-logo="https://i.postimg.cc/1X5VB1Cw/CINE-SONY.png" group-title="CINE-SERIES",CINE SONY
+#EXTINF:-1 tvg-id="cinesony" tvg-logo="https://i.postimg.cc/1X5VB1Cw/CINE-SONY.png" group-title="CINE-SERIES",SONY
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="canal del sol" tvg-logo="https://i.postimg.cc/c1bvkVx7/CANAL-DEL-SOL.png" group-title="DOMINICANOS",CANAL DEL SOL
 https://stream.canaldelsol.com/sol26/live_1080.m3u8
@@ -253,7 +253,7 @@ https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 https://acentotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="teleimpacto" tvg-logo="https://i.postimg.cc/KYn1jNM1/TELEIMPACTO.png" group-title="DOMINICANOS",TELE IMPACTO
 https://vpss2003.streamprolive.com/hls/live.m3u8
-#EXTINF:-1 tvg-id="auroramflive" tvg-logo="https://i.postimg.cc/Jz9BHMCT/AURORA-MEDIA-FILMS.jpg" group-title="CINE-SERIES",AURORA MEDIA FILMS
+#EXTINF:-1 tvg-id="auroramflive" tvg-logo="https://i.postimg.cc/Jz9BHMCT/AURORA-MEDIA-FILMS.jpg" group-title="CINE-SERIES",AURORA
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="avivamiento" tvg-logo="https://i.postimg.cc/Rh5jGLJD/avivamiento-tv.png" group-title="DOMINICANOS",AVIVAMIENTO TV
 https://vdopanel.jlahozconsulting.com:3655/live/avivamientolive.m3u8
