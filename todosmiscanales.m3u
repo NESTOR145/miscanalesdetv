@@ -600,8 +600,8 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 tvg-id="sarapiquitv" tvg-logo="https://i.postimg.cc/wj61j89b/SARAPIQUI-TV.jpg" group-title="VARIEDADES",SARAPIQUI TV
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
-#EXTINF:-1 tvg-id="agrotv" tvg-logo="https://i.postimg.cc/1XS1BS1t/AGRO-TV.jpg" group-title="VARIEDADES",AGRO TV
-https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="tvagro" tvg-logo="https://i.postimg.cc/C1fw5VSv/TVAGRO.jpg" group-title="DOMINICANOS",TV AGRO
+http://181.78.8.199:8000/play/a0fj/index.m3u8
 #EXTINF:-1 tvg-id="kandelatv" tvg-logo="https://i.postimg.cc/265RbYj0/KANDELA-TV.jpg" group-title="VARIEDADES",KANDELA TV
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:-1 tvg-id="infinitatv" tvg-logo="https://i.postimg.cc/HsRtVt0w/INFINITA-TV.jpg" group-title="VARIEDADES",INFINITA TV
