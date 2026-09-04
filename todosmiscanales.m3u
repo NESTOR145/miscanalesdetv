@@ -118,6 +118,8 @@ https://cnn.hostlagarto.com/telesiglo/index.m3u8
 https://edge.essastream.com/telemilenio/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleAntillas.do@SD" tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="DOMINICANOS",TELEANTILLAS
 http://45.171.108.253:8888/TELEANTILLAS/index.m3u8
+#EXTINF:-1 tvg-id="multivisionrd" tvg-logo="https://i.postimg.cc/PqVWW90f/MULTIVISION.jpg" group-title="DOMINICANOS",MULTIVISION R.D
+https://lbgo.bozztv.com/ssh101/ssh101/canalmulti24/chunks.m3u8
 #EXTINF:-1 tvg-id="coral39" tvg-logo="https://i.postimg.cc/50jP56SW/CORAL-39.jpg" group-title="DOMINICANOS",CORAL 39
 https://hls.tvabierta.net/hls/039.m3u8
 #EXTINF:-1 tvg-id="coraltv" tvg-logo="https://i.postimg.cc/Zngr8D6w/CORAL-TV.jpg" group-title="DOMINICANOS",CORAL TV
