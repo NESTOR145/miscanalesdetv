@@ -145,6 +145,8 @@ http://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8
 https://pacific.direcnode.com:3562/live/nuevavisionlive.m3u8
 #EXTINF:-1 tvg-id="citricotv" tvg-logo="https://i.postimg.cc/J7HRGd98/CITRICO-TV.jpg" group-title="DOMINICANOS",CITRICO TV
 https://edge.essastream.com/citricotv/playlist.m3u8
+#EXTINF:-1 tvg-id="teleunionrd" tvg-logo="https://i.postimg.cc/2ycTRZMz/TELEUNION.jpg" group-title="DOMINICANOS",TELEUNION
+http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-1 tvg-id="multivisionrd" tvg-logo="https://i.postimg.cc/PqVWW90f/MULTIVISION.jpg" group-title="DOMINICANOS",MULTIVISION R.D
 https://lbgo.bozztv.com/ssh101/ssh101/canalmulti24/chunks.m3u8
 #EXTINF:-1 tvg-id="tvdaja" tvg-logo="https://i.postimg.cc/BvJ3GTgZ/TV-DAJA.jpg" group-title="DOMINICANOS",TV DAJA
