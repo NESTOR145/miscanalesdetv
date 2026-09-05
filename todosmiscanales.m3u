@@ -137,6 +137,58 @@ https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
 https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="ruta66" tvg-logo="https://i.postimg.cc/9MBt5MTY/RUTA-66-TV.jpg" group-title="DOMINICANOS",RUTA 66 TV
 https://edge.livestreaminggroup.info/ruta66tvlive/index.m3u8
+#EXTINF:-1 tvg-id="bocachicatv" tvg-logo="https://i.postimg.cc/pLpPLG8Z/BOCA-CHICA-TV.jpg" group-title="DOMINICANOS",BOCA CHICA TV
+https://cdnfox.hostlagarto.com/bocachicatv/index.m3u8
+#EXTINF:-1 tvg-id="tnavarretetv" tvg-logo="https://i.postimg.cc/c4JSF9Df/NAVARRETE-TV.png" group-title="DOMINICANOS",NAVARRETE TV
+https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8
+#EXTINF:-1 tvg-id="quisqueyatv" tvg-logo="https://i.postimg.cc/VNQ2PDF0/QUISQUEYA-TV.png" group-title="DOMINICANOS",QUISQUEYA TV CANAL 17
+https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8
+#EXTINF:-1 tvg-id="morrotv" tvg-logo="https://i.postimg.cc/tC8MF28C/MORRO-TV.png" group-title="DOMINICANOS",MORRO TV
+https://cdnfox.hostlagarto.com/morrotv/index.m3u8
+#EXTINF:-1 tvg-id="sensuratv" tvg-logo="https://i.postimg.cc/pXm3qHrm/LA-VOZ-SIN-SENSURA-TV.jpg" group-title="DOMINICANOS",LA VOZ SIN SENSURA TV
+https://cdnfox.hostlagarto.com/lavozsincensuratv/index.m3u8
+#EXTINF:-1 tvg-id="tsabanetatv" tvg-logo="https://i.postimg.cc/P5m2YhmZ/SABANETA-TV.jpg" group-title="DOMINICANOS",SABANETA TV
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="reporterotv" tvg-logo="https://i.postimg.cc/1R8x6n49/REPORTERO-TV.jpg" group-title="DOMINICANOS",REPORTERO TV
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="ccttv" tvg-logo="https://i.postimg.cc/1tTjMB4r/CCT-49.jpg" group-title="DOMINICANOS",CTT CANAL 49
+https://cdnfox.hostlagarto.com/cct49/index.m3u8
+#EXTINF:-1 tvg-id="pronemstv" tvg-logo="https://i.postimg.cc/Nj4CZB5K/PRONEMSTV.jpg" group-title="DOMINICANOS",PRONEMSTV
+https://cdnfox.hostlagarto.com/pronemstv/index.m3u8
+#EXTINF:-1 tvg-id="teledajabon" tvg-logo="https://i.postimg.cc/XYVQfmx1/TELE-DAJABON.jpg" group-title="DOMINICANOS",TELE DAJABON 
+https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8
+#EXTINF:-1 tvg-id="linierostv" tvg-logo="https://i.postimg.cc/kG3yBpBv/LINIEROS-TV.jpg" group-title="DOMINICANOS",LINIEROS TV
+https://soportedvb.click:3017/live/linierostvlive.m3u8
+#EXTINF:-1 tvg-id="vtv32" tvg-logo="https://i.postimg.cc/2jP3QM71/VTV-32.jpg" group-title="DOMINICANOS",VTV 32
+https://edge.livestreaminggroup.info/vtv32live/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="bonaotv" tvg-logo="https://i.postimg.cc/15RQzpS0/BONAO-TV.jpg" group-title="DOMINICANOS",BONAO TV
+https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
+#EXTINF:-1 tvg-id="jarabacoatv" tvg-logo="https://i.postimg.cc/KY3LB5X9/JARABACOA-TV.jpg" group-title="DOMINICANOS",JARABACOA TV
+https://streaming.jarabacoatv.com/Jarabacoa_tv/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="a7tv" tvg-logo="https://i.postimg.cc/Xv5Gp7FP/A7-TV.png" group-title="DOMINICANOS",A7 TV
+https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
+#EXTINF:-1 tvg-id="farosiviontv" tvg-logo="https://i.postimg.cc/gkZ65Z89/FAROVISION.jpg" group-title="DOMINICANOS",FAROVISION 22
+https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="lagunatv" tvg-logo="https://i.postimg.cc/W3n4kD4C/LAGUNA-TV.jpg" group-title="DOMINICANOS",LAGUNA TV
+https://cnn.hostlagarto.com/lagutv/playlist.m3u8
+#EXTINF:-1 tvg-id="cascaratv" tvg-logo="https://i.postimg.cc/286pZr67/CASCARA-TV.jpg" group-title="DOMINICANOS",CASCARA TV
+https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
+EXTINF:-1 tvg-id="puntacanatv" tvg-logo="https://i.postimg.cc/fyn49Fj5/PUNTA-CANA-TV.jpg" group-title="DOMINICANOS",PUNTA CANA TV
+https://cdnfox.hostlagarto.com/puntacanatv/index.m3u8
+#EXTINF:-1 tvg-id="elpodertv" tvg-logo="https://i.postimg.cc/2jg5Bfjr/EL-PODER-TV.png" group-title="DOMINICANOS",EL PODER TV
+https://28tv.online:3795/live/elpodertvcanal57live.m3u8
+#EXTINF:-1 tvg-id="telecomerciotv" tvg-logo="https://i.postimg.cc/tC0X4tkK/TELECOMERCIO.jpg" group-title="DOMINICANOS",TELECOMERCIO
+https://streaming.grupomediosdelnorte.com:19360/telecomerciotv/telecomerciotv.m3u8
+#EXTINF:-1 tvg-id="fratatv" tvg-logo="https://i.postimg.cc/XNH7rNTY/FRATA-TV.jpg" group-title="DOMINICANOS",FRATA TV
+https://vdopanel.jlahozconsulting.com:3706/live/fratalive.m3u8
+#EXTINF:-1 tvg-id="santacruz" tvg-logo="https://i.postimg.cc/15ZQQR5K/SANTA-CRUZ-TV.jpg" group-title="DOMINICANOS",SANTA CRUZ TV
+https://host.streamingnation.live/p/3345/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="noticias16tv" tvg-logo="https://i.postimg.cc/Kjk8y8GP/NOTICIAS-16.png" group-title="DOMINICANOS",NOTICIAS 16
+https://edge.essastream.com/noticias16/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="palmartv" tvg-logo="https://i.postimg.cc/Gm7VHbr8/PALMAR-TV.jpg" group-title="DOMINICANOS",PALMAR TV
+https://streamunoapp.com:3255/live/palmartvlive.m3u8
+#EXTINF:-1 tvg-id="miavision" tvg-logo="https://i.postimg.cc/XvBHqFQm/MIAVISION-TV.jpg" group-title="DOMINICANOS",MIAVISION 
+https://edge.essastream.com/miavisiontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="entelevisionlive" tvg-logo="https://i.postimg.cc/7YZphW0R/EN-TELEVISION.png" group-title="DOMINICANOS",EN TELEVISION
 https://stream.haislin.com/entelevision/index.m3u8
 #EXTINF:-1 tvg-id="srcmedia" tvg-logo="https://i.postimg.cc/d0pw8g3f/SRC-MEDIA-TV.jpg" group-title="DOMINICANOS",SRC MEDIA TV
