@@ -255,6 +255,16 @@ https://lbgo.bozztv.com/ssh101/ssh101/ctv8hd/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/tvmontana10tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Fuegotv" tvg-logo="https://i.postimg.cc/MHZMhQXv/FUEGO-TV.jpg" group-title="DOMINICANOS",FUEGO TV
 https://streamunoapp.com:3553/live/cromtvlive.m3u8
+#EXTINF:-1 tvg-id="carivisionhd" tvg-logo="https://i.postimg.cc/7Z48Dnws/CARIVISION.png" group-title="DOMINICANOS",CARIVISION HD
+https://ss2.tvrdomi.com:1936/carivision/carivision/chunklist.m3u8
+#EXTINF:-1 tvg-id="orbittv" tvg-logo="https://i.postimg.cc/X7sNyjmv/ORBIT-TV.jpg" group-title="DOMINICANOS",ORBIT TV
+https://cnn.hostlagarto.com/orbittv/index.m3u8
+#EXTINF:-1 tvg-id="rnn27" tvg-logo="https://i.postimg.cc/1zFxPVw5/RNN-NOTICIAS.jpg" group-title="DOMINICANOS",RNN CANAL 27
+https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
+#EXTINF:-1 tvg-id="enlacetv" tvg-logo="https://i.postimg.cc/SQ7gCvPm/ENLACE-TV.jpg" group-title="DOMINICANOS",ENLACE TV
+https://livecdnusa.enlace.plus/enlace/master.m3u8
+#EXTINF:-1 tvg-id="diariotv" tvg-logo="https://i.postimg.cc/6qLzF4KX/EL-NUEVO-DIARIO.png" group-title="DOMINICANOS",EL NUEVO DIARIO
+https://nuevodiario01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="villaalt" tvg-logo="https://i.postimg.cc/Pf2hQx2x/VILLA-ALTAGRACIA-TV.jpg" group-title="DOMINICANOS",VILLA ALTAGRACIA TV
 https://stream.inliveserver.com:19360/8004/8004.m3u8
 #EXTINF:-1 tvg-id="beebtotv" tvg-logo="https://i.postimg.cc/qq36xL3H/BEBETO-TELEVISION-HD.jpg" group-title="DOMINICANOS",BEBETO TELEVISION HD
