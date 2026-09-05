@@ -347,6 +347,26 @@ https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 https://soportedvb.click:3891/live/visionndvlive.m3u8
 #EXTINF:-1 tvg-id="cromtv" tvg-logo="https://i.postimg.cc/d3pPH1qr/CROM-TV.png" group-title="DOMINICANOS",CROM TV
 https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="canatv" tvg-logo="https://i.postimg.cc/pd1w1zd9/CANA-TV.png" group-title="DOMINICANOS",CAÑA TV
+https://stream.castr.com/66ba42228522543585913afc/live_0da43710597b11ef9a978b0191f4a826/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="quisqueyalabella" tvg-logo="https://i.postimg.cc/3wW6pNZd/QUISQUEYA-LA-BELLA-TV.jpg" group-title="DOMINICANOS",QUISQUEYA LA BELLA TV
+https://ss2.tvrdomi.com:1936/quisqueyalabella/quisqueyalabella/chunklist_w20117411.m3u8
+#EXTINF:-1 tvg-id="entivisiontv" tvg-logo="https://i.postimg.cc/JzYY1mWt/ENTIVISION.jpg" group-title="DOMINICANOS",ENTIVISION
+https://edge.essastream.com/enntivision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="estetv" tvg-logo="https://i.postimg.cc/7Lqf35TW/TELEVISION-DEL-ESTE.jpg" group-title="DOMINICANOS",TELEVISION DEL ESTE
+https://edge.essastream.com/televisiondeleste/index.m3u8
+#EXTINF:-1 tvg-id="teleola" tvg-logo="https://i.postimg.cc/bwrLVMSW/TELE-OLA-44.jpg" group-title="DOMINICANOS",TELE OLA 44
+https://teleola.ddns.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="puntotv40" tvg-logo="https://i.postimg.cc/j5Jk2RK1/PUNTO-TV.png" group-title="DOMINICANOS",PUNTO TV CANAL 40
+https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/chunklist.m3u8
+#EXTINF:-1 tvg-id="tvhispanic" tvg-logo="https://i.postimg.cc/rFBz7RKQ/TV-HISPANIC.jpg" group-title="DOMINICANOS",TV HISPANIC
+https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
+#EXTINF:-1 tvg-id="rocavision" tvg-logo="https://i.postimg.cc/bwRDbNvX/ROCAVISION.jpg" group-title="DOMINICANOS",ROCAVISION
+https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
+#EXTINF:-1 tvg-id="latoratv" tvg-logo="https://i.postimg.cc/8cBD3c9S/LA-TORA-TV.jpg" group-title="DOMINICANOS",LA TORA TV
+https://tv.wracanal10.com:3012/live/latoratvlive.m3u8
+#EXTINF:-1 tvg-id="ctvd" tvg-logo="https://i.postimg.cc/xdHZg7B5/CTVD.jpg" group-title="DOMINICANOS",CTVD
+https://cdn2.streamgato.us/ctvd/ctvd/playlist.m3u8
 #EXTINF:-1 tvg-id="hmtvlive" tvg-logo="https://i.postimg.cc/Pxs1FJmw/HERMANAS-MIRABAL-TV.png" group-title="DOMINICANOS",HERMANAS MIRABAL TV
 https://fox.hostlagarto.com:8081/hmtv/index.m3u8
 #EXTINF:-1 tvg-id="makaotv" tvg-logo="https://i.postimg.cc/w38r1mzr/MAKAO-TV.png" group-title="DOMINICANOS",MAKAO TV
