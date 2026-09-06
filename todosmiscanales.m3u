@@ -279,6 +279,30 @@ https://stream.canaldelsol.com/sol26/live_1080.m3u8
 https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="cdn" tvg-logo="https://i.postimg.cc/5Nz8BxBQ/LUNA-TV.jpg" group-title="DOMINICANOS",LUNA TV CANAL 53
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
+#EXTINF:-1 tvg-id="gwaymate" tvg-logo="https://i.postimg.cc/Z5fthGZD/GUAYMATE-TV.png" group-title="DOMINICANOS",GUAYMATE TV
+https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
+#EXTINF:-1 tvg-id="informetv" tvg-logo="https://i.postimg.cc/02QJ2hmV/INFORME-TV.jpg" group-title="DOMINICANOS",INFORME TV
+https://edge.essastream.com/informetv/index.m3u8
+#EXTINF:-1 tvg-id="tvlatinaint" tvg-logo="https://i.postimg.cc/QxySXQBT/LATINA-TV-INT.png" group-title="DOMINICANOS",LATINA TV INTERNACIONAL
+https://5790d294af2dc.streamlock.net/latinatv/latinatv/playlist.m3u8
+#EXTINF:-1 tvg-id="sitv3" tvg-logo="https://i.postimg.cc/vmdrB3G1/SI-TV-CANAL-3.jpg" group-title="DOMINICANOS",SI TV CANAL 3
+https://stream-proxy.doppiau.workers.dev/?url=http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
+#EXTINF:-1 tvg-id="ondatv10" tvg-logo="https://i.postimg.cc/dVvqX7Cn/ONDA-TV.png" group-title="DOMINICANOS",ONDA TV
+https://cnn.hostlagarto.com/ondatv/index.m3u8
+#EXTINF:-1 tvg-id="siembratv" tvg-logo="https://i.postimg.cc/Rh36GHvX/SIEMBRA-TV.png" group-title="DOMINICANOS",SIEMBRA TV
+https://streamunoapp.com:3809/live/siembratvlive.m3u8
+#EXTINF:-1 tvg-id="tni51" tvg-logo="https://i.postimg.cc/C53D3tgK/TNI.jpg" group-title="DOMINICANOS",TN1 CANAL 51
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-id="teleazul" tvg-logo="https://i.postimg.cc/8crcLgHG/TELE-AZUL.jpg" group-title="DOMINICANOS",TELE AZUL
+https://cdn.streamingcpanel.com:3327/live/teleazullive.m3u8
+#EXTINF:-1 tvg-id="telecibaohd" tvg-logo="https://i.postimg.cc/25Z2Z5cR/TELECIBAO.jpg" group-title="DOMINICANOS",TELECIBAO
+https://edge.essastream.com/telecibaotv/index.m3u8
+#EXTINF:-1 tvg-id="negociostv" tvg-logo="https://i.postimg.cc/Rhff4H2Z/NEGOCIOS-TV.jpg" group-title="DOMINICANOS",NEGOCIOS TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-id="dimelotv" tvg-logo="https://i.postimg.cc/Px52X2Mm/DIMELO-TV.jpg" group-title="DOMINICANOS",DIMELO TV
+https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
+#EXTINF:-1 tvg-id="codigotv" tvg-logo="https://i.postimg.cc/85vDpfb0/CODIGO-TV.jpg" group-title="DOMINICANOS",CODIGO TV
+https://edge.essastream.com/codigotv/index.m3u8
 #EXTINF:-1 tvg-id="vallenuevotv" tvg-logo="https://i.postimg.cc/wMdzrJhc/VALLE-NUEVO-TV.jpg" group-title="DOMINICANOS",VALLE NUEVO TV
 https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
 #EXTINF:-1 tvg-id="bajotechotvlive" tvg-logo="https://i.postimg.cc/qRhZ2Np6/BAJO-TECHO-TV.png" group-title="DOMINICANOS",BAJO TECHO TV
