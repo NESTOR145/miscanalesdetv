@@ -110,7 +110,7 @@ https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="mundotv" tvg-logo="https://i.postimg.cc/Gt9f0WKh/MUND2_TV.jpg" group-title="DOMINICANOS",MUND2 TV
 https://mlb.essastream.com:8081/mun2tv/index.m3u8
 #EXTINF:-1 tvg-id="telesistema" tvg-logo="https://i.postimg.cc/wTdj8WJx/TELESISTEMA.jpg" group-title="DOMINICANOS",TELESISTEMA 11
-https://cdn3.wind.do/streams/telesistema/telesistema_master.m3u8
+https://hls.tvabierta.net/hls/011.m3u8
 #EXTINF:-1 tvg-id="dantv" tvg-logo="https://i.postimg.cc/QMp2n0xB/TS-TELESIGLO.png" group-title="DOMINICANOS",TS TELESIGLO
 https://cnn.hostlagarto.com/telesiglo/index.m3u8
 #EXTINF:-1 tvg-id="santiagotv" tvg-logo="https://i.postimg.cc/3JQyz0Vh/SANTIAGO-TV.png" group-title="DOMINICANOS",SANTIAGO TV
