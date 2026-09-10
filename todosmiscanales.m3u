@@ -215,6 +215,16 @@ https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8
 https://soportedvb.click:3017/live/linierostvlive.m3u8
 #EXTINF:-1 tvg-id="nexotv" tvg-logo="https://i.postimg.cc/SKPK19qS/NEXXO-TV.png" group-title="DOMINICANOS",NEXXO TV
 https://edge.essastream.com/nexxontv/index.m3u8
+#EXTINF:-1 tvg-id="tvplatatv" tvg-logo="https://i.postimg.cc/zvL5bzcx/TV-PLATA.jpg" group-title="DOMINICANOS",TV PLATA
+https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8
+#EXTINF:-1 tvg-id="tenarensestv" tvg-logo="https://i.postimg.cc/26Mpqw9p/TENARENSES-TV.jpg" group-title="DOMINICANOS",TENARENSES TV
+https://edge.essastream.com/tenarensestvrd/index.m3u8
+#EXTINF:-1 tvg-id="zincnombre" tvg-logo="https://i.postimg.cc/B6dyZvt2/ZINC-NOMBRE.jpg" group-title="DOMINICANOS",ZINC NOMBRE TV
+https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="señaldigital" tvg-logo="https://i.postimg.cc/9f0NG97Q/SENAL-DIGITAL-TV.jpg" group-title="DOMINICANOS",SEÑAL DIGITAL TV
+https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
+#EXTINF:-1 tvg-id="enteraterd" tvg-logo="https://i.postimg.cc/Ss8drfNF/ENTERATE-RD.jpg" group-title="DOMINICANOS",ENTERATE RD
+https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8
 #EXTINF:-1 tvg-id="bonaotv" tvg-logo="https://i.postimg.cc/15RQzpS0/BONAO-TV.jpg" group-title="DOMINICANOS",BONAO TV
 https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
 #EXTINF:-1 tvg-id="jarabacoatv" tvg-logo="https://i.postimg.cc/KY3LB5X9/JARABACOA-TV.jpg" group-title="DOMINICANOS",JARABACOA TV
