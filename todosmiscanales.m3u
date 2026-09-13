@@ -429,6 +429,14 @@ https://fox.hostlagarto.com:8081/puntacanatv/index.m3u8
 https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="jesustv" tvg-logo="https://i.postimg.cc/zfJ9wKhZ/LA-VOZ-DE-JESUS-TV.jpg" group-title="DOMINICANOS",LA VOZ DE JESUS HD
 https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
+#EXTINF:-1 tvg-id="fronteravision" tvg-logo="https://i.postimg.cc/rFRGLbhT/FRONTERA-VISION.jpg" group-title="DOMINICANOS",FRONTERA VISION
+https://59f1cbe63db89.streamlock.net:1443/fronteravision/_definst_/fronteravision/playlist.m3u8
+#EXTINF:-1 tvg-id="rdn" tvg-logo="https://i.postimg.cc/gJ0RtBXj/RDN.jpg" group-title="DOMINICANOS",RDN
+https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="portaldigital" tvg-logo="https://i.postimg.cc/Qx77z7tW/PORTAL-DIGITAL.jpg" group-title="DOMINICANOS",PORTAL DIGITAL
+https://edge.essastream.com/portaldigital/index.m3u8
+#EXTINF:-1 tvg-id="diario55" tvg-logo="https://i.postimg.cc/25kB3XxF/SUPER-TV-55.jpg" group-title="DOMINICANOS",SUPER TV 55
+https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8
 #EXTINF:-1 tvg-id="nitidatv" tvg-logo="https://i.postimg.cc/JnH7vMSm/NITIDA-TV.jpg" group-title="DOMINICANOS",NITIDA TV
 https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
 #EXTINF:-1 tvg-id="telecontacto" tvg-logo="https://i.postimg.cc/3NbRVfPc/TELECONTACTO-57.jpg" group-title="DOMINICANOS",TELECONTACTO 57
