@@ -673,6 +673,22 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 https://vcp3.myplaytv.com/somostv/somostv/chunklist_w2076538066.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="aguacatetv" tvg-logo="https://i.postimg.cc/G3qqJkjy/AGUACATE-TV.jpg" group-title="VARIEDADES",AGUACATE TV
 https://streamtv.intervenhosting.net:3040/live/aguacatetvbqtolive.m3u8?WebM3UCL
+#EXTINF:-1 tvg-id="tma" tvg-logo="https://i.postimg.cc/Kzx5QQST/TMA-TV.jpg" group-title="VARIEDADES",TMA
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 tvg-id="vidas" tvg-logo="https://i.postimg.cc/635BCr2b/RESTAURANDO-VIDAS-INTERNACIONAL.jpg" group-title="VARIEDADES",RESTAURANDO VIDAS INTERNACIONAL
+https://v4.tustreaming.cl/restaurandovida/index.m3u8
+#EXTINF:-1 tvg-id="aysentv" tvg-logo="https://i.postimg.cc/MTLvXKDG/AYSEN-TV.png" group-title="VARIEDADES",AYSEN TV
+https://v1.tustreaming.cl/aysentv/index.m3u8
+#EXTINF:-1 tvg-id="unife" tvg-logo="https://i.postimg.cc/52nSfDvZ/UNIFE-HD.jpg" group-title="VARIEDADES",UNIFE TV HD
+https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="logostv" tvg-logo="https://i.postimg.cc/RV6xJryx/LOGOS-TV.jpg" group-title="VARIEDADES",LOGOS TV
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
+#EXTINF:-1 tvg-id="net.tv" tvg-logo="https://i.postimg.cc/T13mgkL3/NET-TV.png" group-title="VARIEDADES",NET.TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="eltrece" tvg-logo="https://i.postimg.cc/26kQNSmQ/EL-TRECE-TV.jpg" group-title="VARIEDADES",EL TRECE(1080) 
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="ngfederal" tvg-logo="https://i.postimg.cc/qR3MrhXS/NG-FEDERAL.jpg" group-title="VARIEDADES",NG FEDERAL
+http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 #EXTINF:-1 tvg-id="universfaller" tvg-logo="https://i.postimg.cc/zv1QFqtz/UNIVERS-TV.png" group-title="VARIEDADES",UNIVERS TV
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
 #EXTINF:-1 tvg-id="estrellamedia" tvg-logo="https://i.postimg.cc/76DPtJZd/ESTRELLA-TV.png" group-title="VARIEDADES",ESTRELLA TV
