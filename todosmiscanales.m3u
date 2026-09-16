@@ -251,6 +251,10 @@ https://edge.essastream.com/noticias16/tracks-v1a1/mono.m3u8
 https://streamunoapp.com:3255/live/palmartvlive.m3u8
 #EXTINF:-1 tvg-id="gwaymate" tvg-logo="https://i.postimg.cc/Z5fthGZD/GUAYMATE-TV.png" group-title="DOMINICANOS",GUAYMATE TV
 https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
+#EXTINF:-1 tvg-id="tvn" tvg-logo="https://i.postimg.cc/Jz1fN0CF/TVN.jpg" group-title="DOMINICANOS",TVN
+https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8
+#EXTINF:-1 tvg-id="turismo" tvg-logo="https://i.postimg.cc/3RDV8D2h/TURISMO-TV.png" group-title="DOMINICANOS",TURISMO HD
+https://live20.bozztv.com/giatvplayout7/giatv-208343/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="informetv" tvg-logo="https://i.postimg.cc/02QJ2hmV/INFORME-TV.jpg" group-title="DOMINICANOS",INFORME TV
 https://edge.essastream.com/informetv/index.m3u8
 #EXTINF:-1 tvg-id="tvlatinaint" tvg-logo="https://i.postimg.cc/QxySXQBT/LATINA-TV-INT.png" group-title="DOMINICANOS",LATINA TV INTERNACIONAL
