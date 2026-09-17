@@ -165,6 +165,8 @@ https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8
 https://fox.hostlagarto.com:8081/bellavision8hd/index.m3u8
 #EXTINF:-1 tvg-id="montecristitvlive" tvg-logo="https://i.postimg.cc/fW26cLz4/MONTE-CRISTI-DIGITAL.jpg" group-title="DOMINICANOS",MONTE CRISTI DIGITAL
 https://soportedvb.click:3400/live/montecristitvlive.m3u8
+#EXTINF:-1 tvg-id="telealtura" tvg-logo="https://i.postimg.cc/qqN05pG8/TELEALTURA.png" group-title="DOMINICANOS",TELEALTURA
+https://stream1.28tv.online/Telealtura/index.m3u8
 #EXTINF:-1 tvg-id="salvaciontv" tvg-logo="https://i.postimg.cc/pL1HH3fd/SALVACION-TV.png" group-title="DOMINICANOS",SALVACION TV
 https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="teleunion" tvg-logo="https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png" group-title="DOMINICANOS",TELEUNION 
@@ -538,6 +540,10 @@ https://s.emisoras.tv:8081/diostevekids/index.m3u8
 https://s.emisoras.tv:8081/penielkids/index.m3u8
 #EXTINF:-1 tvg-id="zoomoo" tvg-logo="https://i.postimg.cc/K8bVC72Z/ZOO-MOO-AUSTRALIA.jpg" group-title="ANIME-INFANTIL",ZOO MOO AUSTRALIA
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="csimiami" tvg-logo="https://i.postimg.cc/hPRpQnMC/CSI-MIAMI.jpg" group-title="CINE-SERIES",CSI MIAMI
+https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8
+#EXTINF:-1 tvg-id="csinw" tvg-logo="https://i.postimg.cc/wTkctm1v/CSI-NEW-YORK.jpg" group-title="CINE-SERIES",CSI NEW YORK
+https://jmp2.uk/plu-632b606e12a67b0007c9e371.m3u8
 #EXTINF:-1 tvg-id="pbskids" tvg-logo="https://i.postimg.cc/sxmmRQSv/PBS-KIDS.png" group-title="ANIME-INFANTIL",PBS KIDS
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-id="kids" tvg-logo="https://i.postimg.cc/Bny8FgvG/3-ABN-KIDS-LOGO.png" group-title="ANIME-INFANTIL",3ABN KIDS
