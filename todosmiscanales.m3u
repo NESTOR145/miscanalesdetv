@@ -781,6 +781,14 @@ https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
 #EXTINF:-1 tvg-id="estutele" tvg-logo="https://i.postimg.cc/zD0FqnKz/ES-TU-TELE.jpg" group-title="VARIEDADES",ES TU TELE
 https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
+#EXTINF:-1 tvg-id="toto" tvg-logo="https://i.postimg.cc/Bny252HB/TOTOVISION.jpg" group-title="VARIEDADES",TOTO VISION
+https://cdn.streamhispanatv.net:3652/stream/play.m3u8
+#EXTINF:-1 tvg-id="imagentv" tvg-logo="https://i.postimg.cc/9MLSV44z/IMAGEN-TV.png" group-title="VARIEDADES",IMAGEN TV
+https://cdn.streamhispanatv.net:3587/live/imagentvlive.m3u8
+#EXTINF:-1 tvg-id="doblectv" tvg-logo="https://i.postimg.cc/vmdCvwF1/TV-DOBLE-C.jpg" group-title="VARIEDADES",TV DOBLE C
+https://cdn.streamhispanatv.net:3080/live/tvdobleclive.m3u8
+#EXTINF:-1 tvg-id="tvflorencia" tvg-logo="https://i.postimg.cc/sX3P1s5k/TV-FLORENCIA.jpg" group-title="VARIEDADES",TV FLORENCIA
+https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 #EXTINF:-1 tvg-id="voiceover" tvg-logo="https://i.postimg.cc/MZRpF6Nw/VOICE-OVER.jpg" group-title="VARIEDADES",VOICE OVER
 https://tvservices.fullhd-streaming.com:3941/multi_web/play_720.m3u8
 #EXTINF:-1 tvg-id="zacatecas" tvg-logo="https://i.postimg.cc/sgydKSZF/CANAL-24-ZACATECAS.png" group-title="VARIEDADES",CANAL 24 ZACATECAS
