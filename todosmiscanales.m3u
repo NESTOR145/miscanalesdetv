@@ -611,6 +611,10 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="telemundopr" tvg-logo="https://i.postimg.cc/9FY9kvT0/BALLE-BALLE.jpg" group-title="MUSICA",BALLE BALLE TV
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="vivalatino" tvg-logo="https://i.postimg.cc/T1f2WCnM/VIVA-LATINO.jpg" group-title="MUSICA",VIVA LATINO
+http://stream.mcquack.net/285/index.m3u8
+#EXTINF:-1 tvg-id="corazontv" tvg-logo="https://i.postimg.cc/LsWNXWK8/CORAZON-TV.jpg" group-title="MUSICA",CORAZON TV
+https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
 #EXTINF:-1 tvg-id="TuMusicaHD.do" tvg-logo="https://i.postimg.cc/bvDWL0My/TELERITMO.jpg" group-title="MUSICA",TELERITMO SD
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="energymusic" tvg-logo="https://i.postimg.cc/kXCWQb0b/ENERGY-TV-MUSIC.png" group-title="MUSICA",ENERGY TV MUSIC
@@ -869,6 +873,10 @@ https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
 https://cloudvideo.servers10.com:8081/8070/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="supercanal" tvg-logo="https://i.postimg.cc/zfCgdH1R/SUPER-CANAL.png" group-title="VARIEDADES",SUPER CANAL
 https://live.obslivestream.com/supercanal/index.m3u8
+#EXTINF:-1 tvg-id="amazonia" tvg-logo="https://i.postimg.cc/0NS9WLCf/AMAZONIA-TV.jpg" group-title="VARIEDADES",AMAZONIA TV
+https://servilive.com:3199/live/amazoniatvlive.m3u8
+#EXTINF:-1 tvg-id="cosmos" tvg-logo="https://i.postimg.cc/P53M37qL/COSMOS-TV.jpg" group-title="VARIEDADES",COSMOS TV
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 #EXTINF:-1 tvg-id="uraniotv" tvg-logo="https://i.postimg.cc/43X4zszX/URANIO-TV.png" group-title="VARIEDADES",URANIO TV
 https://live.obslivestream.com/uraniotv/index.m3u8
 #EXTINF:-1 tvg-id="visionsur" tvg-logo="https://i.postimg.cc/y6DRJy1v/VISION-SUR.jpg" group-title="VARIEDADES",VISION SUR
