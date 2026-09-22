@@ -883,6 +883,12 @@ https://live.obslivestream.com/uraniotv/index.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-id="canal8" tvg-logo="https://i.postimg.cc/J4MdFLXy/CANAL-8-CATACAOS.png" group-title="VARIEDADES",CANAL 8-CATACAOS
 https://live.obslivestream.com/canal8/index.m3u8
+#EXTINF:-1 tvg-id="invasivatv" tvg-logo="https://i.postimg.cc/0ywLb3P6/INVASIVA-TV.png" group-title="VARIEDADES",INVASIVA TV
+https://tv-omega-nine.vercel.app/hls/live.m3u8
+#EXTINF:-1 tvg-id="islita" tvg-logo="https://i.postimg.cc/W1z08LhP/ISLITA-TV.jpg" group-title="VARIEDADES",ISLITA TV
+https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
+#EXTINF:-1 tvg-id="adatv" tvg-logo="https://i.postimg.cc/FRBZbrx4/ADA-TV.jpg" group-title="VARIEDADES",ADA TV
+https://live-evg10.tv360.bitel.com.pe/bitel/alasdeaguilaSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="canal11" tvg-logo="https://i.postimg.cc/MH4NFvGM/CANAL-11-MEXICO.jpg" group-title="VARIEDADES",CANAL 11-MEXICO
 http://179.60.224.196:8000/play/a0dv/index.m3u8
 #EXTINF:-1 tvg-id="tvcosmos" tvg-logo="https://i.postimg.cc/rzXDH9yS/TV-COSMOS.jpg" group-title="VARIEDADES",TV COSMOS
