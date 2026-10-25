@@ -153,7 +153,7 @@ https://edge.essastream.com/noticias16/tracks-v1a1/mono.m3u8
 https://streamunoapp.com:3255/live/palmartvlive.m3u8
 #EXTINF:-1 tvg-id="guaymatetv.do@SD" tvg-logo="https://i.postimg.cc/Z5fthGZD/GUAYMATE-TV.png" group-title="DOMINICANOS",GUAYMATE TV
 https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
-#EXTINF:-1 tvg-id="clarotv.do@SD" tvg-logo="https://i.postimg.cc/Yqtpm56W/CLARO-VISION-TV.jpg" group-title="VARIEDADES",CLARO VISION TV
+#EXTINF:-1 tvg-id="clarov.do@SD" tvg-logo="https://i.postimg.cc/Yqtpm56W/CLARO-VISION-TV.jpg" group-title="DOMINICANOS",CLARO VISION TV
 https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
 #EXTINF:-1 tvg-id="informetv.do@SD" tvg-logo="https://i.postimg.cc/02QJ2hmV/INFORME-TV.jpg" group-title="DOMINICANOS",INFORME TV
 https://edge.essastream.com/informetv/index.m3u8
@@ -387,6 +387,8 @@ https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8
 https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="acentotv.do@SD" tvg-logo="https://i.postimg.cc/kg5mL7tZ/ACENTO-TV.jpg" group-title="DOMINICANOS",ACENTO TV
 https://acentotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="accdn.do@SD" tvg-logo="https://i.postimg.cc/wTtpLBCG/ACCDN.png" group-title="DOMINICANOS",ACCDN
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="digital809.do@SD" tvg-logo="https://i.imgur.com/NKdV8b1.png" group-title="DOMINICANOS",DIGITAL 809
 https://stream.inliveserver.com:19360/8146/8146.m3u8
 #EXTINF:-1 tvg-id="fuegotv.do@SD" tvg-logo="https://i.postimg.cc/MHZMhQXv/FUEGO-TV.jpg" group-title="DOMINICANOS",FUEGO TV
@@ -667,8 +669,6 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 tvg-id="fifatv" tvg-logo="https://i.postimg.cc/fyBLc2xs/FIFA.png" group-title="DEPORTES",FIFA
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="accdntv" tvg-logo="https://i.postimg.cc/wTtpLBCG/ACCDN.png" group-title="DEPORTES",ACCDN
-https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="bellatotvr" tvg-logo="https://i.postimg.cc/WpBNXf94/BELLATOR-MMA.png" group-title="DEPORTES",PLUTO BELLATOR MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 -----------------------------------------------------------------------------------------------------------------------------------------------
@@ -686,7 +686,7 @@ https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="caritastv" tvg-logo="https://i.postimg.cc/2yJyTkvY/CARITAS-TV.png" group-title="VARIEDADES",CARITAS TV
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
-#EXTINF:-1 tvg-id="telesistemahon" tvg-logo="https://i.postimg.cc/nhNKMxw6/TELESISTEMA.jpg" group-title="VARIEDADES",TELESISTEMA HONDURAS
+#EXTINF:-1 tvg-id="teleshond" tvg-logo="https://i.postimg.cc/nhNKMxw6/TELESISTEMA.jpg" group-title="VARIEDADES",TELE HONDURAS
 https://k20.usastreams.com:8081/telesistema/index.m3u8
 #EXTINF:-1 tvg-id="andestv" tvg-logo="https://i.postimg.cc/t4X2rDWS/ANDES-TELEVISION.jpg" group-title="VARIEDADES",ANDES TELEVISION
 https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
