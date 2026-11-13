@@ -362,7 +362,9 @@ https://vdopanel.jlahozconsulting.com/p/3303/live/makinalive.m3u8
 #EXTINF:-1 tvg-id="hermanasmirabaltv.do@SD" tvg-logo="https://i.postimg.cc/Pxs1FJmw/HERMANAS-MIRABAL-TV.png" group-title="DOMINICANOS",HERMANAS MIRABAL TV
 https://fox.hostlagarto.com:8081/hmtv/index.m3u8
 #EXTINF:-1 tvg-id="makaotv.do@SD" tvg-logo="https://i.postimg.cc/w38r1mzr/MAKAO-TV.png" group-title="DOMINICANOS",MAKAO TV
-https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
+https://live.obslivestream.com/makaomux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="supercanal33.do@SD" tvg-logo="https://i.postimg.cc/909NGyXZ/SUPER-CANAL-33.jpg" group-title="DOMINICANOS",SUPER CANAL 33
+https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8
 #EXTINF:-1 tvg-id="alegretv.do@SD" tvg-logo="https://i.postimg.cc/26W9PTcM/ALEGRE-TV.png" group-title="DOMINICANOS",ALEGRE TV
 https://streamunoapp.com:3149/live/alegretvlive.m3u8
 #EXTINF:-1 tvg-id="jimanitv.do@SD" tvg-logo="https://i.postimg.cc/k4Mq5LsS/JIMANI-TV.jpg" group-title="DOMINICANOS",JIMANI TV
