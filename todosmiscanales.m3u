@@ -171,6 +171,14 @@ https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/chunklist.m3u8
 https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 #EXTINF:-1 tvg-id="latoratv.do@SD" tvg-logo="https://i.postimg.cc/8cBD3c9S/LA-TORA-TV.jpg" group-title="DOMINICANOS",LA TORA TV
 https://tv.wracanal10.com:3012/live/latoratvlive.m3u8
+#EXTINF:-1 tvg-id="telebendicion.do@SD" tvg-logo="https://i.postimg.cc/7PCTryS5/TELEBENDICION.jpg" group-title="DOMINICANOS",TELEBENDICION
+https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8
+#EXTINF:-1 tvg-id="zincnombretv.do@SD" tvg-logo="https://i.postimg.cc/B6dyZvt2/ZINC-NOMBRE.jpg" group-title="DOMINICANOS",ZINC NOMBRE TV
+https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="codigotv.do@SD" tvg-logo="https://i.postimg.cc/85vDpfb0/CODIGO-TV.jpg" group-title="DOMINICANOS",CODIGO TV
+https://edge.essastream.com/codigotv/index.m3u8
+#EXTINF:-1 tvg-id="fronteravision.do@SD" tvg-logo="https://i.postimg.cc/rFRGLbhT/FRONTERA-VISION.jpg" group-title="DOMINICANOS",FRONTERA VISION
+https://59f1cbe63db89.streamlock.net:1443/fronteravision/_definst_/fronteravision/playlist.m3u8
 #EXTINF:-1 tvg-id="miavision.do@SD" tvg-logo="https://i.postimg.cc/XvBHqFQm/MIAVISION-TV.jpg" group-title="DOMINICANOS",MIAVISION 
 https://edge.essastream.com/miavisiontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="carivisionhd.do@SD" tvg-logo="https://i.postimg.cc/7Z48Dnws/CARIVISION.png" group-title="DOMINICANOS",CARIVISION HD
@@ -454,6 +462,8 @@ http://181.78.8.199:8000/play/a0bt/index.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/sternblink/playlist.m3u8
 #EXTINF:-1 tvg-id="cine" tvg-logo="https://i.postimg.cc/cL44Pp6S/CANAL-CINE-DIOS.png" group-title="PELICULAS Y SERIES",CANAL CINE DIOS
 https://canal.mediaserver.com.co/live/cinedios.m3u8
+#EXTINF:-1 tvg-id="nintv" tvg-logo="https://i.postimg.cc/wxVJfCDv/NIM-TV.jpg" group-title="PELICULAS Y SERIES",NIM TV
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 #EXTINF:-1 tvg-id="urban" tvg-logo="https://i.postimg.cc/nhBf5YD4/URBAN-ACTION.jpg" group-title="PELICULAS Y SERIES",URBAN ACTION
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/manifest.m3u8
 #EXTINF:-1 tvg-id="bjtjme" tvg-logo="https://i.postimg.cc/q7vfHTLj/channels4-profile.jpg" group-title="PELICULAS Y SERIES",BIGTIME
