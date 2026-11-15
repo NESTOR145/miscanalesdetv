@@ -235,7 +235,7 @@ https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 https://soportedvb.click:3413/live/televerlive.m3u8
 #EXTINF:-1 tvg-id="xtratv.do@SD" tvg-logo="https://i.postimg.cc/BndC40qh/XTRA-TV.png" group-title="DOMINICANOS",XTRA TV
 https://edge.essastream.com/xtratv/index.m3u8
-#EXTINF:-1 tvg-id="surtv.do@SD" tvg-logo="https://i.postimg.cc/SssJ2d92/SUR-TV.jpg" group-title="DOMINICANOS",SUR TV
+#EXTINF:-1 tvg-id="surtv.do@SD" tvg-logo="https://i.postimg.cc/bJRf2GG4/TV-CANAL-SUR.png" group-title="DOMINICANOS",TV CANAL SUR
 https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8
 #EXTINF:-1 tvg-id="deltatv.do@SD" tvg-logo="https://i.postimg.cc/Pq3N06xb/DELTA-TV.png" group-title="DOMINICANOS",DELTA TV
 https://fox.hostlagarto.com:8081/deltatv50/index.m3u8
