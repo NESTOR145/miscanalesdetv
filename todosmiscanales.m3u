@@ -152,7 +152,7 @@ https://cnn.hostlagarto.com/ondatv/index.m3u8
 #EXTINF:-1 tvg-id="siembratv.do@SD" tvg-logo="https://i.postimg.cc/Rh36GHvX/SIEMBRA-TV.png" group-title="DOMINICANOS",SIEMBRA TV
 https://streamunoapp.com:3809/live/siembratvlive.m3u8
 #EXTINF:-1 tvg-id="tn1canal51.do@SD" tvg-logo="https://i.postimg.cc/C53D3tgK/TNI.jpg" group-title="DOMINICANOS",TN1 CANAL 51
-https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist_1280x720.m3u8
+https://ss2.tvrdomi.com:1936/nuevaisabelatv/nuevaisabelatv/playlist.m3u8
 #EXTINF:-1 tvg-id="teleazul.do@SD" tvg-logo="https://i.postimg.cc/8crcLgHG/TELE-AZUL.jpg" group-title="DOMINICANOS",TELE AZUL
 https://cdn.streamingcpanel.com:3327/live/teleazullive.m3u8
 #EXTINF:-1 tvg-id="telecibao.do@SD" tvg-logo="https://i.postimg.cc/25Z2Z5cR/TELECIBAO.jpg" group-title="DOMINICANOS",TELECIBAO
