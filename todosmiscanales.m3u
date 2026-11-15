@@ -472,6 +472,8 @@ https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="todocine" tvg-logo="https://i.postimg.cc/Hs7p03dt/TODO-CINE.jpg" group-title="PELICULAS Y SERIES",TODO CINE
 https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-440d-aa84-40afcb2150b5/playlist.m3u8
+#EXTINF:-1 tvg-id="tvsmaracay" tvg-logo="https://i.postimg.cc/PfgKNwQV/TVS-MARACAY.jpg" group-title="PELICULAS Y SERIES",TVS MARACAY
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="classiquetv" tvg-logo="https://i.postimg.cc/CKXnY4gj/CLASSIQUE-TV.jpg" group-title="PELICULAS Y SERIES",CLASSIQUE TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="zeeone" tvg-logo="https://i.postimg.cc/bJf7RX5b/ZEE-ONE.png" group-title="PELICULAS Y SERIES",ZEE ONE
