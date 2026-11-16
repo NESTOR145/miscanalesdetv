@@ -299,8 +299,6 @@ https://fox.hostlagarto.com:8081/telenord10/playlist.m3u8
 https://fox.hostlagarto.com:8081/telenord12/playlist.m3u8
 #EXTINF:-1 tvg-id="teleradionorte.do@SD" tvg-logo="https://i.postimg.cc/zGBcp9qd/TELERADIO-NORTE.jpg" group-title="DOMINICANOS",TELERADIO NORTE
 https://angelistic.live:3785/live/tvoficiallive.m3u8
-#EXTINF:-1 tvg-id="tvs.do@SD" tvg-logo="https://i.postimg.cc/ZKmDYkQf/TVS.png" group-title="DOMINICANOS",TVS DOMINICANO
-https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 #EXTINF:-1 tvg-id="vegavisioncanal18.do@SD" tvg-logo="https://i.postimg.cc/mDPfJrmz/VEGAVISION-CANAL-18.jpg" group-title="DOMINICANOS",VEGAVISION CANAL 18
 https://fox.hostlagarto.com:8081/canal26/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="telenovisa43.do@SD" tvg-logo="https://i.postimg.cc/SNxSB8JC/TELENOVISA-43.png" group-title="DOMINICANOS",TELENOVISA 43
