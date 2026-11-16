@@ -476,8 +476,6 @@ https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="todocine" tvg-logo="https://i.postimg.cc/Hs7p03dt/TODO-CINE.jpg" group-title="PELICULAS Y SERIES",TODO CINE
 https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-440d-aa84-40afcb2150b5/playlist.m3u8
-#EXTINF:-1 tvg-id="tvsmaracay" tvg-logo="https://i.postimg.cc/PfgKNwQV/TVS-MARACAY.jpg" group-title="PELICULAS Y SERIES",TVS MARACAY
-https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="classiquetv" tvg-logo="https://i.postimg.cc/CKXnY4gj/CLASSIQUE-TV.jpg" group-title="PELICULAS Y SERIES",CLASSIQUE TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="zeeone" tvg-logo="https://i.postimg.cc/bJf7RX5b/ZEE-ONE.png" group-title="PELICULAS Y SERIES",ZEE ONE
@@ -694,6 +692,8 @@ https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rtvida" tvg-logo="https://i.postimg.cc/XvGZRPxr/RTV-VIDA.jpg" group-title="VARIEDADES",RTV VIDA
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+#EXTINF:-1 tvg-id="tvsmaracay" tvg-logo="https://i.postimg.cc/PfgKNwQV/TVS-MARACAY.jpg" group-title="VARIEDADES",TVS MARACAY
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 #EXTINF:-1 tvg-id="cetelmontv" tvg-logo="https://i.postimg.cc/y8P4V6Q5/CETELMON-TV-ESPA-A.jpg" group-title="VARIEDADES",CETELMON TV ESPAÑA
 http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
 #EXTINF:-1 tvg-id="distritotv" tvg-logo="https://i.postimg.cc/jqhkPYbX/DISTRITO-TV.png" group-title="VARIEDADES",DISTRITO TV
