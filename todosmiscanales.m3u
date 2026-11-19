@@ -355,6 +355,8 @@ https://acentotv01.streamprolive.com/hls/live.m3u8
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="digital809.do@SD" tvg-logo="https://i.imgur.com/NKdV8b1.png" group-title="DOMINICANOS",DIGITAL 809
 https://stream.inliveserver.com:19360/8146/8146.m3u8
+#EXTINF:-1 tvg-id="canadigital.do@SD" tvg-logo="https://i.postimg.cc/CLQzxJZ7/CANANGA-DIGITAL.png" group-title="DOMINICANOS",CANANGA DIGITAL 
+https://cdn.streamingcpanel.com/p/3472/live/canangadigitallive.m3u8
 #EXTINF:-1 tvg-id="radio67tv.do@SD" tvg-logo="https://i.postimg.cc/SQf4P2nt/RADIO-67-TV.jpg" group-title="DOMINICANOS",RADIO 67 TV
 https://radio67tv.tvabierta.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="fuegotv.do@SD" tvg-logo="https://i.postimg.cc/MHZMhQXv/FUEGO-TV.jpg" group-title="DOMINICANOS",FUEGO TV
@@ -587,6 +589,8 @@ http://200.115.120.1:8000/play/ca106/index.m3u8
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://i.postimg.cc/sXpzr6b2/RT-NOTICIAS.png" group-title="NOTICIAS",RT EN ESPAÑOL
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="teleplayhd" tvg-logo="https://i.postimg.cc/d1w0xxf5/TELEPLAY.jpg" group-title="NOTICIAS",TELEPLAY 
+https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
 #EXTINF:-1 tvg-id="puranoticias" tvg-logo="https://i.postimg.cc/2jFcK1GB/PURA-NOTICIA-TV.jpg" group-title="NOTICIAS",PURA NOTICIA TV
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 tvg-id="uniontv" tvg-logo="https://i.postimg.cc/d0v8HF9r/UNION-TV.png" group-title="NOTICIAS",UNION TV
