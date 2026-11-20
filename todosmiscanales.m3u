@@ -295,8 +295,6 @@ https://fox.hostlagarto.com:8081/telenord10/playlist.m3u8
 https://fox.hostlagarto.com:8081/telenord12/playlist.m3u8
 #EXTINF:-1 tvg-id="teleradionorte.do@SD" tvg-logo="https://i.postimg.cc/zGBcp9qd/TELERADIO-NORTE.jpg" group-title="DOMINICANOS",TELERADIO NORTE
 https://angelistic.live:3785/live/tvoficiallive.m3u8
-#EXTINF:-1 tvg-id="cdndo@SD" tvg-logo="https://i.postimg.cc/JzbcL1tC/CDN-37.png" group-title="DOMINICANOS",CDN 
-http://187.245.231.226:8000/play/a0ss/index.m3u8
 #EXTINF:-1 tvg-id="vegavisioncanal18.do@SD" tvg-logo="https://i.postimg.cc/mDPfJrmz/VEGAVISION-CANAL-18.jpg" group-title="DOMINICANOS",VEGAVISION CANAL 18
 https://fox.hostlagarto.com:8081/canal26/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="telenovisa43.do@SD" tvg-logo="https://i.postimg.cc/SNxSB8JC/TELENOVISA-43.png" group-title="DOMINICANOS",TELENOVISA 43
@@ -355,8 +353,6 @@ https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 https://acentotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="pitucotv.do@SD" tvg-logo="https://i.postimg.cc/1zd1948k/PITUCO-TV.png" group-title="DOMINICANOS",PITUCO TV
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
-#EXTINF:-1 tvg-id="accdn.do@SD" tvg-logo="https://i.postimg.cc/wTtpLBCG/ACCDN.png" group-title="DOMINICANOS",ACCDN
-https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="digital809.do@SD" tvg-logo="https://i.imgur.com/NKdV8b1.png" group-title="DOMINICANOS",DIGITAL 809
 https://stream.inliveserver.com:19360/8146/8146.m3u8
 #EXTINF:-1 tvg-id="radio67tv.do@SD" tvg-logo="https://i.postimg.cc/SQf4P2nt/RADIO-67-TV.jpg" group-title="DOMINICANOS",RADIO 67 TV
@@ -399,6 +395,8 @@ https://5790d294af2dc.streamlock.net/pulsovision/pulsovision/playlist.m3u8
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 #EXTINF:-1 tvg-id="lavozsinsensuratv.do@SD" tvg-logo="https://i.postimg.cc/pXm3qHrm/LA-VOZ-SIN-SENSURA-TV.jpg" group-title="DOMINICANOS",LA VOZ SIN SENSURA TV
 https://cdnfox.hostlagarto.com/lavozsincensuratv/index.m3u8
+#EXTINF:-1 tvg-id="cdndo@SD" tvg-logo="https://i.postimg.cc/JzbcL1tC/CDN-37.png" group-title="DOMINICANOS",CDN 
+http://187.245.231.226:8000/play/a0ss/index.m3u8
 #EXTINF:-1 tvg-id="ruta66.do@SD" tvg-logo="https://i.postimg.cc/9MBt5MTY/RUTA-66-TV.jpg" group-title="DOMINICANOS",RUTA 66 TV
 https://stream.clockrd.com/live/ruta66tv/index.m3u8
 #EXTINF:-1 tvg-id="fm.do@SD" tvg-logo="https://i.postimg.cc/4yJ5qQJs/TV-CANAL-SUR.jpg" group-title="DOMINICANOS",EMP-RADIOFONICA SUR TV
@@ -667,6 +665,8 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
 #EXTINF:-1 tvg-id="garajetv" tvg-logo="https://i.postimg.cc/gjR8vXKP/GARAGE-TV.png" group-title="DEPORTES",GARAJE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="accdndeportes" tvg-logo="https://i.postimg.cc/wTtpLBCG/ACCDN.png" group-title="DEPORTES",ACCDN
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="itv" tvg-logo="https://i.postimg.cc/QtLx1M2P/ITV_DEPORTES.jpg" group-title="DEPORTES",ITV DEPORTES
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 tvg-id="fifatv" tvg-logo="https://i.postimg.cc/fyBLc2xs/FIFA.png" group-title="DEPORTES",FIFA
